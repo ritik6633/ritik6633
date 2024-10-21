@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ritik6633
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning in collage with CSE branch
-- 💞️ I’m looking to collaborate on project based on ML or DL
-- 📫 How to reach me.. my LinkedIn id is ritik6633
-- 😄 Pronouns: Ritik
-- ⚡ Fun fact: doing coding in dreams' 
+👋 Hi, I'm Ritik (@ritik6633)
+👀 I'm passionate about web development and building innovative solutions.
+🌱 Currently pursuing Computer Science Engineering (CSE), actively learning and growing every day.
+💡 Looking to collaborate on Machine Learning (ML) and Deep Learning (DL) projects.
+💬 You can reach me on LinkedIn.
+😄 Pronouns: Ritik
+⚡ Fun fact: I sometimes code in my dreams!
 
 <!---
 ritik6633/ritik6633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
